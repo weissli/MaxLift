@@ -16,11 +16,9 @@ MaxLift Tracker is a mobile-friendly web application designed to help you track 
 
 *(You can add the screenshots you provided in the chat by saving them to an `assets` folder and updating the links below)*
 
-### Main Screen
-![Main Screen](assets/main_screen.jpg)
-
-### Exercise Log & History
-![Log & History](assets/log_history.jpg)
+| Main Screen | Exercise Log & History |
+| :---: | :---: |
+| <img src="assets/main_screen.jpg" width="300" alt="Main Screen" /> | <img src="assets/log_history.jpg" width="300" alt="Log & History" /> |
 
 ## Getting Started
 
