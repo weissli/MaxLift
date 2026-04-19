@@ -1,6 +1,6 @@
 # MaxLift Tracker
 
-MaxLift Tracker is a mobile-friendly web application designed to help you track your weightlifting progress and personal bests. Since is designed to be saved to your home screen as a Progressive Web App (PWA) your data stored locally. No app store, no logins, full control over your data; just a simple secure mobile app.
+MaxLift Tracker is a mobile-friendly web application designed to help you track your weightlifting progress and personal bests. Since this is designed to be saved to your home screen as a Progressive Web App (PWA) your data stored locally. No app store, no logins, full control over your data; just a simple secure mobile app.
 
 Just want to use the app:  [Try it out](https://everyeye.org.uk/pwa/max/index.html#/welcome) and save to you device.
 
